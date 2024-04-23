@@ -1,0 +1,46 @@
+body {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width:1024px;
+}
+
+h1 {
+	text-align: center;
+}
+
+.container_pedras {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	background-color: red;
+	margin: 0px;
+	height: 600px;
+	text-align: center;
+}
+
+.container_form_ganhador {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	background-color: yellow;
+	margin: 0px;
+	display: block;
+	text-align: right;
+}
+
+.predra_atual {
+	width:500px;
+	display: inline-block;
+	background-color: blue;
+	margin: 0px;
+	min-height: 100%;
+}
+
+.predras_cantadas {
+	width:500px;
+	min-height: 100%;
+	display: inline-block;
+	background-color: green;
+	margin: 0px;
+}
